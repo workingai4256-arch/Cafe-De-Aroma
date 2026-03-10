@@ -1,0 +1,9 @@
+{
+  "projectId": "271ba139-a231-42f7-9310-534fb93e2323",
+  "createdAt": 1773058090392,
+  "version": "1.0",
+  "startupCommands": [
+    "true; nohup python3 -m http.server 5173 --directory /home/user/app >/tmp/cafe-dev.log 2>&1 &"
+  ],
+  "templateId": "any"
+}
